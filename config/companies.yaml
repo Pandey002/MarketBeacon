@@ -1,0 +1,19 @@
+your_company:
+  name: "Acme SaaS"
+  website: "acme.com"
+  focus: "B2B project management"
+
+competitors:
+  - name: "LinearApp"
+    website: "linear.app"
+    pricing_url: "linear.app/pricing"
+    linkedin_slug: "linear-app"
+    news_keywords: ["Linear app", "Linear project management"]
+  - name: "Notion"
+    website: "notion.so"
+
+# Define your company and competitors
+companies:
+  - your_company
+  - competitor_1
+  - competitor_2
